@@ -1,5 +1,7 @@
 # douyin2shipinghaoPython
 自动爬取抖音个人账户全部视频，自动去水印下载，自动保存封面，全自动登录微信短视频，发布短视频， 短视频运营神器
+视频展示
+https://www.bilibili.com/video/BV1D34y1h7M5?spm_id_from=333.999.0.0
 #!/usr/bin/env python
 # -*- coding: utf-8 -*
 <pre>
@@ -28,5 +30,13 @@ import re # 正则表达式模块 内置模块
 import time # 时间模块
 from selenium import webdriver # selenium
 </pre>
-##动态展示效果
- ![Image text](yanshi.gif) 
+##1动态展示效果
+ ![image](https://github.com/QIWEB/douyin2shipinghaoPython/blob/main/yanshi.gif)
+##2主页
+ ![image](https://github.com/QIWEB/douyin2shipinghaoPython/blob/main/zhuye.jpg)
+ ##下载的视频
+ ![image](https://github.com/QIWEB/douyin2shipinghaoPython/blob/main/file.jpg)
+ ##python运行日志
+ ![image](https://github.com/QIWEB/douyin2shipinghaoPython/blob/main/log.jpg)
+ 
+ 微信908701702 技术交流
