@@ -1,8 +1,8 @@
 # douyin2shipinghaoPython
 自动爬取抖音个人账户全部视频，自动去水印下载，自动保存封面，全自动登录微信短视频，发布短视频， 短视频运营神器
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
+# -*- coding: utf-8 -*
+<pre>
 '''
 by qiweb
 技术微信：qiweb3
@@ -27,3 +27,6 @@ import requests # 数据请求模块 第三方模块 pip install requests
 import re # 正则表达式模块 内置模块
 import time # 时间模块
 from selenium import webdriver # selenium
+</pre>
+##动态展示效果
+ ![Image text](yanshi.gif) 
