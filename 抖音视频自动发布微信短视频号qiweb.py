@@ -9,7 +9,7 @@ by qiweb
 视频号ID:sphMlB0G4vnMbrU
 
 公众号：QIWEB精品共享科技
-bilibili 我的站功能演示 最靓的噢
+bilibili 我的站功能演示 老王退休叫兽
 自动爬取抖音个人账户全部视频，自动去水印下载，自动保存封面，全自动登录微信短视频，发布短视频， 短视频运营神器
 https://www.bilibili.com/video/BV1D34y1h7M5?spm_id_from=333.999.0.0
 2022年5月11日22:04:46
