@@ -1,3 +1,8 @@
+# 作者bi站python免费教学
+## UP主: 老王退休叫兽
+ ![image](https://github.com/QIWEB/douyin2shipinghaoPython/blob/main/%E4%BD%9C%E8%80%85b%E7%AB%99.jpg?raw=true)
+
+
 # douyin2shipinghaoPython
 自动爬取抖音个人账户全部视频，自动去水印下载，自动保存封面，全自动登录微信短视频，发布短视频， 短视频运营神器
 视频展示
